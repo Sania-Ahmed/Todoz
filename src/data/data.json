@@ -1,0 +1,40 @@
+{
+  "boards": [
+    {
+      "name": "Demo Board",
+      "isActive": false,
+      "columns": [
+        {
+          "name": "Todo",
+          "tasks": [
+            {
+              "title": "Build UI for onboarding flow",
+              "status": "Todo"
+            },
+            {
+              "title": "Build UI for search",
+              "status": "Todo"
+            }
+          ]
+        },
+        {
+          "name": "Done",
+          "tasks": [
+            {
+              "title": "Market discovery",
+              "status": "Done"
+            },
+            {
+              "title": "Competitor analysis",
+              "status": "Done"
+            },
+            {
+              "title": "Research the market",
+              "status": "Done"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
